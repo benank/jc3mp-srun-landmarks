@@ -6,8 +6,5 @@
     "chat",
     "load",
     "pirate"
-  ],
-  "dependencies": {
-    "promise-mysql": "^3.2.1"
-  }
+  ]
 }
