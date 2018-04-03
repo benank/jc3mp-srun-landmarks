@@ -1,0 +1,11 @@
+{
+	"name": "Dead Men Isle",
+	"radius": 645.1697387695312,
+	"pos": {
+		"x": 4599.76513671875,
+		"z": 14902.642578125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

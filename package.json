@@ -1,0 +1,13 @@
+{
+  "name": "landmarks",
+  "version": "1.0.0",
+  "author": "Lord Farquaad",
+  "jcmp_dependencies": [
+    "chat",
+    "load",
+    "pirate"
+  ],
+  "dependencies": {
+    "promise-mysql": "^3.2.1"
+  }
+}

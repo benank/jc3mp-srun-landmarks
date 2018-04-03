@@ -1,0 +1,251 @@
+
+* 
+{
+	user-select: none;
+    font-family: 'Spectral', sans-serif;
+    font-weight: 550px;
+    cursor: default;
+    font-size: 16px;
+}
+
+html
+{
+    visibility: hidden;
+    color: white;
+}
+
+body
+{
+    margin: 0;
+}
+
+div.container
+{
+    position: fixed;
+    width: 100vh;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.bg
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+div.map-shop,div.weapon-shop,div.chest-shop
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+div.title
+{
+    position: fixed;
+    left: 50%;
+    text-align: center;
+    font-size: 6vh;
+    width: fit-content;
+    transform: translateX(-50%);
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background: #C9B26B;
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.main-container
+{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    max-height: 80%;
+    overflow-y: auto;
+    width: 60%;
+    transform: translateX(-50%);
+
+    
+    background: #C9B26B;
+    color: rgb(50, 50, 50);
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5) inset;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.landmark-title, div.landmark-title>font.name
+{
+    text-align: center;
+    font-size: 3.5vh;
+}
+
+div.landmark-container
+{
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    background: #E8CE80;
+    color: rgb(50, 50, 50);
+    margin: 5px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.landmark-container>div.item-container
+{
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+div.landmark-container>div.title
+{
+    position: absolute;
+}
+
+div.item
+{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+div.item.bought
+{
+    filter: grayscale(50%) brightness(75%);
+    opacity: 0.6;
+}
+
+div.item img.money-icon
+{
+    width: 1vh;
+    height: 1vh;
+}
+
+div.item>div.price
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 1.5vh;
+    border-top-right-radius: 1vh;
+
+    padding-left: 2px;
+    
+    background: #C9B26B;
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #805D2D;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+i.fa.fa-question, i.fas.fa-map, i.fa.fa-map
+{
+    font-size: 6vh;
+    width: 6vh;
+    height: 6vh;
+    padding: 1vh;
+    text-align: center;
+
+    background: #C9B26B;
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.tooltip
+{
+    position: fixed;
+    background: #C9B26B;
+    padding: 4px;
+    padding-bottom: 0px;
+    text-align: center;
+    padding-top: 0px;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    transform: translate(5px, 5px);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+div.tooltip,div.tooltip *
+{
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+    font-size: 2.5vh;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.tooltip img.money-icon
+{
+    width: 1.5vh;
+    height: 1.5vh;
+}
+
+
+.fa.fa-anchor {color: #16A170;}
+.fa.fa-bullseye,.fa-bullseye {color: #9F7EBF;}
+
+::-webkit-scrollbar {
+    width: 14px;
+    height: 18px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    height: 6px;
+    border: 4px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+
+    background: #E8C864;
+    color: rgb(50, 50, 50);
+    font-weight: bold;
+    border-width: 6px;
+    border-style: double;
+    border-color: #805D2D;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    margin: 2px;
+}
+::-webkit-scrollbar-button {
+    width: 0;
+    height: 0;
+    display: none;
+}
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+
+.undiscovered
+{
+    display: none;
+}

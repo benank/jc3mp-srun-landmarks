@@ -1,0 +1,11 @@
+{
+	"name": "Turner's Triad",
+	"radius": 811.6815795898438,
+	"pos": {
+		"x": 2738.390380859375,
+		"z": 2981.279296875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

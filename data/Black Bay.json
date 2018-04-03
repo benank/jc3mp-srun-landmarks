@@ -1,0 +1,36 @@
+{
+	"name": "Black Bay",
+	"radius": 1200.2056884765625,
+	"pos": {
+		"x": 251.78829956054688,
+		"z": 2909.65771484375
+	},
+	"buildings": [
+		{
+			"name": "Chest?",
+			"pos": {"x": -496.3341, "y": 1025.6975, "z": 3100.4226},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": 81.4474, "y": 1028.7133, "z": 2012.5348},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 4,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": 345.2444, "y": 1023.681, "z": 2467.1777},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 3,
+			"from_map": true
+		}
+	],
+	"enabled": true,
+	"icon": "bullseye"
+}

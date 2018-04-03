@@ -1,0 +1,11 @@
+{
+	"name": "Kraken Refuge",
+	"radius": 534.8285522460938,
+	"pos": {
+		"x": 6079.5478515625,
+		"z": 14059.93359375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

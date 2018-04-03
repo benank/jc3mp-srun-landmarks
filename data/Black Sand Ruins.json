@@ -1,0 +1,11 @@
+{
+	"name": "Black Sand Ruins",
+	"radius": 244.74081420898438,
+	"pos": {
+		"x": -7656.7294921875,
+		"z": -14957.6669921875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

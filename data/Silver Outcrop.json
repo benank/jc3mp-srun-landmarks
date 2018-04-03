@@ -1,0 +1,11 @@
+{
+	"name": "Silver Outcrop",
+	"radius": 538.0421142578125,
+	"pos": {
+		"x": -14801.064453125,
+		"z": -15789.255859375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

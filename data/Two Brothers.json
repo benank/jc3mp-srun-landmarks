@@ -1,0 +1,11 @@
+{
+	"name": "Two Brothers",
+	"radius": 277.8240966796875,
+	"pos": {
+		"x": -14989.0400390625,
+		"z": -14721.5244140625
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Rockhopper's Rig",
+	"radius": 97.1009292602539,
+	"pos": {
+		"x": -3635.467041015625,
+		"z": 6371.27880859375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

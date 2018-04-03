@@ -1,0 +1,11 @@
+{
+	"name": "Arrowhead Cliffs",
+	"radius": 578.825439453125,
+	"pos": {
+		"x": -14498.9765625,
+		"z": -12064.46875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

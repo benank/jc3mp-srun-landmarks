@@ -1,0 +1,11 @@
+{
+	"name": "Boom Island",
+	"radius": 1483.017822265625,
+	"pos": {
+		"x": -13328.5439453125,
+		"z": 14526.1220703125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

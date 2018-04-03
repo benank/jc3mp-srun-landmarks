@@ -1,0 +1,84 @@
+{
+	"name": "Wreck of the Wretched",
+	"radius": 674.589599609375,
+	"pos": {
+		"x": -1983.682373046875,
+		"z": 8129.55322265625
+	},
+	"buildings": [
+		{
+			"name": "Chest?",
+			"pos": {
+				"x": -1951.41345,
+				"y": 1125.3751,
+				"z": 8146.4155
+			},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {
+				"x": -2098.3701,
+				"y": 1027.0946,
+				"z": 8122.1718
+			},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {
+				"x": -1863.9898,
+				"y": 1007.60870,
+				"z": 8278.4892
+			},
+			"type": "CHEST",
+			"chest_type": "BUCCANEER",
+			"radius": 6,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {
+				"x": -2097.0205,
+				"y": 1024.4863,
+				"z": 8011.4648
+			},
+			"type": "CHEST",
+			"chest_type": "DESERTER",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -2108.0308, "y": 1048.3123, "z": 8659.8711},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -2384.7686, "y": 1231.8309, "z": 8391.2393},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -2035.791, "y": 1024.3352, "z": 8079.0781},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 3,
+			"from_map": true
+		}
+	],
+	"enabled": true,
+	"icon": "bullseye"
+}

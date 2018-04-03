@@ -1,0 +1,11 @@
+{
+	"name": "Salty Overhangs",
+	"radius": 425.32843017578125,
+	"pos": {
+		"x": -14540.6494140625,
+		"z": -13679.2373046875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

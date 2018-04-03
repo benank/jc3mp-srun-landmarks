@@ -1,0 +1,11 @@
+{
+	"name": "Tortoise Beach",
+	"radius": 380.7039794921875,
+	"pos": {
+		"x": 11656.2529296875,
+		"z": 4093.635009765625
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Stargaze Point",
+	"radius": 441.58697509765625,
+	"pos": {
+		"x": 7795.35986328125,
+		"z": 4414.5654296875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Graybeard's Hideaway",
+	"radius": 227.30526733398438,
+	"pos": {
+		"x": -10312.2646484375,
+		"z": -15156.8623046875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

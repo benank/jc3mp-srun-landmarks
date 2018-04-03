@@ -1,0 +1,11 @@
+{
+	"name": "Pistol Point",
+	"radius": 426.853759765625,
+	"pos": {
+		"x": 5758.037109375,
+		"z": 2166.0126953125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Grassy Knoll",
+	"radius": 231.19094848632812,
+	"pos": {
+		"x": -10724.1484375,
+		"z": -15653.2255859375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

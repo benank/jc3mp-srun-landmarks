@@ -1,0 +1,11 @@
+{
+	"name": "Unagi Outlands",
+	"radius": 1500.86572265625,
+	"pos": {
+		"x": -2651.794677734375,
+		"z": 3276.244873046875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

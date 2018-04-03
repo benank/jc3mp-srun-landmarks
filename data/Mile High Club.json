@@ -1,0 +1,11 @@
+{
+	"name": "Mile High Club",
+	"radius": 352.8650817871094,
+	"pos": {
+		"x": 842.9752807617188,
+		"z": -8153.4658203125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

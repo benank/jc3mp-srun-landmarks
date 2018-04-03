@@ -1,0 +1,11 @@
+{
+	"name": "Jagged Point",
+	"radius": 1100.18896484375,
+	"pos": {
+		"x": -9526.3779296875,
+		"z": -13829.8017578125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

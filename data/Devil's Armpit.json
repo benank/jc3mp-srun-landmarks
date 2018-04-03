@@ -1,0 +1,11 @@
+{
+	"name": "Devil's Armpit",
+	"radius": 446.4670715332031,
+	"pos": {
+		"x": -14819.8154296875,
+		"z": -10482.2587890625
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

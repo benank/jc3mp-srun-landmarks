@@ -1,0 +1,11 @@
+{
+	"name": "Bay of Ruin",
+	"radius": 292.5283203125,
+	"pos": {
+		"x": -14237.8935546875,
+		"z": -10156.513671875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

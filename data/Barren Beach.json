@@ -1,0 +1,11 @@
+{
+	"name": "Barren Beach",
+	"radius": 318.9410705566406,
+	"pos": {
+		"x": -9054.9951171875,
+		"z": -12264.1376953125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

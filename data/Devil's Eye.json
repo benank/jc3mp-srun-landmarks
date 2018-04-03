@@ -1,0 +1,11 @@
+{
+	"name": "Devil's Eye",
+	"radius": 1007.9745483398438,
+	"pos": {
+		"x": -12321.5419921875,
+		"z": -12280.3408203125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

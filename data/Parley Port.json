@@ -1,0 +1,370 @@
+{
+	"name": "Parley Port",
+	"radius": 600.7542724609375,
+	"pos": {
+		"x": -455.1683349609375,
+		"z": 5816.81103515625
+	},
+	"spawns": {
+		"player": [
+			{
+				"x": -396.0522,
+				"y": 1031.3866,
+				"z": 5644.6792
+			},
+			{
+				"x": -386.4583,
+				"y": 1031.3833,
+				"z": 5619.0234
+			},
+			{
+				"x": -450.7162,
+				"y": 1029.0762,
+				"z": 5718.6289
+			},
+			{
+				"x": -476.7664,
+				"y": 1029.1997,
+				"z": 5743.1489
+			},
+			{
+				"x": -457.5709,
+				"y": 1029.1384,
+				"z": 5765.3462
+			},
+			{
+				"x": -429.9943,
+				"y": 1029.5243,
+				"z": 5873.8081
+			},
+			{
+				"x": -416.0087,
+				"y": 1029.228,
+				"z": 5916.814
+			},
+			{
+				"x": -458.1017,
+				"y": 1032.4686,
+				"z": 5870.7705
+			}
+		],
+		"ships": [
+			{
+				"x": -366.0586,
+				"y": 1023.9643,
+				"z": 5649.9873,
+				"xr": 0.0475,
+				"yr": 1.8186,
+				"zr": -0.0061
+			},
+			{
+				"x": -379.8575,
+				"y": 1023.9423,
+				"z": 5676.4419,
+				"xr": -0.0081,
+				"yr": 1.8125,
+				"zr": 0.0013
+			},
+			{
+				"x": -399.8009,
+				"y": 1023.9138,
+				"z": 5694.8872,
+				"xr": 0.0101,
+				"yr": 1.9062,
+				"zr": 0.0007
+			},
+			{
+				"x": -394.2115,
+				"y": 1023.9144,
+				"z": 5722.1885,
+				"xr": -0.0427,
+				"yr": 2.1011,
+				"zr": -0.0023
+			},
+			{
+				"x": -416.4909,
+				"y": 1023.9149,
+				"z": 5749.3091,
+				"xr": 0.0277,
+				"yr": 1.7103,
+				"zr": 0.0024
+			},
+			{
+				"x": -413.278,
+				"y": 1023.9233,
+				"z": 5783.4448,
+				"xr": 0.038,
+				"yr": 1.2504,
+				"zr": -0.0027
+			},
+			{
+				"x": -389.8632,
+				"y": 1023.9326,
+				"z": 5803.2056,
+				"xr": -0.0169,
+				"yr": 1.3084,
+				"zr": 0.0012
+			},
+			{
+				"x": -380.5967,
+				"y": 1023.9464,
+				"z": 5834.1914,
+				"xr": -0.0129,
+				"yr": 1.2977,
+				"zr": -0.0013
+			},
+			{
+				"x": -363.483,
+				"y": 1023.9152,
+				"z": 5870.396,
+				"xr": -0.0163,
+				"yr": 1.3067,
+				"zr": 0.0014
+			},
+			{
+				"x": -354.3062,
+				"y": 1023.9211,
+				"z": 5902.084,
+				"xr": -0.0261,
+				"yr": 1.3138,
+				"zr": 0.002
+			},
+			{
+				"x": -357.3564,
+				"y": 1023.931,
+				"z": 5935.6479,
+				"xr": -0.0173,
+				"yr": 1.5973,
+				"zr": 0.0006
+			},
+			{
+				"x": -348.9002,
+				"y": 1023.9075,
+				"z": 5967.9766,
+				"xr": 0.0388,
+				"yr": 1.6378,
+				"zr": 0.0036
+			}
+		]
+	},
+	"buildings": [
+		{
+			"name": "Bob's Oddities Shop",
+			"pos": {
+				"x": -487.3713684,
+				"y": 1034.930541,
+				"z": 5781.86669
+			},
+			"type": "CHEST_SELL",
+			"radius": 3
+		},
+		{
+			"name": "Guns & Glory",
+			"pos": {
+				"x": -509.18774,
+				"y": 1046.179,
+				"z": 5726.9331
+			},
+			"type": "WEAPON_BUY",
+			"radius": 3
+		},
+		{
+			"name": "Maps of the World",
+			"pos": {
+				"x": -483.39859,
+				"y": 1035.174194,
+				"z": 5694.02148
+			},
+			"type": "MAP_BUY",
+			"radius": 3,
+			"items": [
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 3,
+					"chest_index": 0,
+					"hint": "Atop the crow's nest<br>Ye can find treasure<br>On the eastern side"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 5,
+					"chest_index": 1,
+					"hint": "An old ship<br>Lies beached on the shore<br>The southwestern side of it<br>Lies the treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 10,
+					"chest_index": 3,
+					"hint": "Start at the dock<br>Which faces 60°<br>15 paces due southwest<br>10 paces due west"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 10,
+					"chest_index": 4,
+					"hint": "Follow the peninsula<br>Southeast<br>Till its end<br>There you can find me"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 15,
+					"chest_index": 5,
+					"hint": "Head east from the steps<br>Just 18 paces<br>Search there<br>And you can find me"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 15,
+					"chest_index": 6,
+					"hint": "From the helipad<br>25 paces south<br>Search here<br>And treasure can be found"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Wreck of the Wretched",
+					"cost": 20,
+					"chest_index": 2,
+					"hint": "Follow the wreck's chain<br>Southwest into the sea<br>There, at its end<br>You can find me"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Parley Port",
+					"cost": 0,
+					"chest_index": 3,
+					"hint": "Begin at the lighthouse's blue door<br>Head to the tree 125°<br>20 Paces northeast<br>Is where the treasure lies"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Parley Port",
+					"cost": 5,
+					"chest_index": 4,
+					"hint": "DiRavello watches over this dock<br>At its end, dive deep<br>Find a stone under it<br>Underneath is treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Parley Port",
+					"cost": 15,
+					"chest_index": 5,
+					"hint": "Behind the lighthouse<br>You'll find a hill<br>And a tree<br>Search under the tree"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Ibarr's Isthmus",
+					"cost": 10,
+					"chest_index": 3,
+					"hint": "At the start of the lone dock<br>17 paces due west<br>12 paces due south<br>And there is the treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Ibarr's Isthmus",
+					"cost": 10,
+					"chest_index": 4,
+					"hint": "The southwestern side of the city<br>Lies a lone obelisk<br>At its top<br>Is treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Ibarr's Isthmus",
+					"cost": 10,
+					"chest_index": 5,
+					"hint": "Center of the isthmus<br>Ye can find some rubble<br>Search there<br>To find what ye seek"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Ibarr's Isthmus",
+					"cost": 10,
+					"chest_index": 5,
+					"hint": "Center of the isthmus<br>Ye can find some rubble<br>Search there<br>To find what ye seek"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Pirate's Cove",
+					"cost": 5,
+					"chest_index": 0,
+					"hint": "Start at the rock<br>26 paces northeast<br>12 paces south<br>Lies the treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Pirate's Cove",
+					"cost": 10,
+					"chest_index": 1,
+					"hint": "From the dock's start<br>17 paces northeast<br>27 paces east<br>Lies the treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Pirate's Cove",
+					"cost": 10,
+					"chest_index": 2,
+					"hint": "A small, sandy inlet<br>At its northwestern tip<br>Lies the treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Black Bay",
+					"cost": 5,
+					"chest_index": 0,
+					"hint": "Follow the dock<br>Facing 280°<br>Once on land<br>Head north 10 paces"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Black Bay",
+					"cost": 10,
+					"chest_index": 1,
+					"hint": "A rock lies ashore<br>Start at its southwestern side<br>13 paces northwest<br>10 paces north"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Black Bay",
+					"cost": 10,
+					"chest_index": 2,
+					"hint": "There is a small, sandy beach<br>Head to its southern tip<br>Search there<br>And be rewarded"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Lost Bay",
+					"cost": 10,
+					"chest_index": 0,
+					"hint": "East of the ruins<br>On a small island<br>On its northeastern tip<br>Lies treasure"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Lookout Point",
+					"cost": 10,
+					"chest_index": 0,
+					"hint": "In the caverns below<br>There is a sandy shore<br>Here, you will find<br>What you are looking for"
+				},
+				{
+					"type": "TREASURE_MAP",
+					"landmark": "Lookout Point",
+					"cost": 10,
+					"chest_index": 1,
+					"hint": "On the beach, there is a rock<br>17 paces south<br>25 paces west<br>Lies the treasure"
+				}
+			]
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -381.6115, "y": 1031.1183, "z": 5607.4629},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 5,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -375.1641, "y": 1017.4789, "z": 5715.8701},
+			"type": "CHEST",
+			"chest_type": "DESERTER",
+			"radius": 6,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": -423.3526, "y": 1039.298, "z": 5579.1226},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 4,
+			"from_map": true
+		}
+	],
+	"enabled": true
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Sandy Oasis",
+	"radius": 140.22964477539062,
+	"pos": {
+		"x": -10912.525390625,
+		"z": -15917.8828125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

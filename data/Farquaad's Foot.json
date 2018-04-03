@@ -1,0 +1,11 @@
+{
+	"name": "Farquaad's Foot",
+	"radius": 818.1030883789062,
+	"pos": {
+		"x": 2634.50341796875,
+		"z": -7863.78857421875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

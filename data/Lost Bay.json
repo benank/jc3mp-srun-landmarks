@@ -1,0 +1,20 @@
+{
+	"name": "Lost Bay",
+	"radius": 559.7535400390625,
+	"pos": {
+		"x": 1356.606689453125,
+		"z": 5595.94921875
+	},
+	"buildings": [
+		{
+			"name": "Chest?",
+			"pos": {"x": 1440.4791, "y": 1036.8003, "z": 5617.1973},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 3,
+			"from_map": true
+		}
+	],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Charred Ruins",
+	"radius": 462.8352355957031,
+	"pos": {
+		"x": -13257.892578125,
+		"z": -11065.501953125
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

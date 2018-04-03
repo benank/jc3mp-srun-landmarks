@@ -1,0 +1,11 @@
+{
+	"name": "Shark's Occult",
+	"radius": 337.1462707519531,
+	"pos": {
+		"x": -9154.955078125,
+		"z": -13043.490234375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Last Words Lookout",
+	"radius": 350.0340576171875,
+	"pos": {
+		"x": 12232.69921875,
+		"z": 9230.19921875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

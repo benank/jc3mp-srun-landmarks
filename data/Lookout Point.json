@@ -1,0 +1,28 @@
+{
+	"name": "Lookout Point",
+	"radius": 785.3329467773438,
+	"pos": {
+		"x": 1929.18994140625,
+		"z": 7272.734375
+	},
+	"buildings": [
+		{
+			"name": "Chest?",
+			"pos": {"x": 1815.6218, "y": 1026.4967, "z": 7053.0005},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 6,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": 1893.2472, "y": 1028.4026, "z": 7468.1338},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 3,
+			"from_map": true
+		}
+	],
+	"enabled": true,
+	"icon": "bullseye"
+}

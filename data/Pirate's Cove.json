@@ -1,0 +1,36 @@
+{
+	"name": "Pirate's Cove",
+	"radius": 823.5390625,
+	"pos": {
+		"x": 827.276611328125,
+		"z": 4448.7294921875
+	},
+	"buildings": [
+		{
+			"name": "Chest?",
+			"pos": {"x": 1323.0341, "y": 1024.922, "z": 4054.3616},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 4,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": 1147.084, "y": 1024.5924, "z": 4442.6279},
+			"type": "CHEST",
+			"chest_type": "SEADOG",
+			"radius": 3,
+			"from_map": true
+		},
+		{
+			"name": "Chest?",
+			"pos": {"x": 696.6731, "y": 1026.287, "z": 5142.415},
+			"type": "CHEST",
+			"chest_type": "PRIVATEER",
+			"radius": 4,
+			"from_map": true
+		}
+	],
+	"enabled": true,
+	"icon": "bullseye"
+}

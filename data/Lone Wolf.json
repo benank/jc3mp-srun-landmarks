@@ -1,0 +1,11 @@
+{
+	"name": "Lone Wolf",
+	"radius": 168.84414672851562,
+	"pos": {
+		"x": -12890.646484375,
+		"z": -16053.951171875
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}

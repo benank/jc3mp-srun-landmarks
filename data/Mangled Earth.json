@@ -1,0 +1,11 @@
+{
+	"name": "Mangled Earth",
+	"radius": 114.94159698486328,
+	"pos": {
+		"x": -14768.849609375,
+		"z": -13177.4375
+	},
+	"buildings": [],
+	"enabled": true,
+	"icon": "bullseye"
+}
